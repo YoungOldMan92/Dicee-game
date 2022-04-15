@@ -1,0 +1,57 @@
+body {
+  font-family: 'Londrina Solid', cursive;
+  color: #00ADB5;
+  letter-spacing: .2rem;
+  background-color: #222831;
+}
+
+h1 {
+  font-size: 6rem;
+  font-weight: 900;
+  color: #00ADB5;
+  text-align: center;
+}
+
+/* Title Section */
+
+.title {
+  padding: 3%;
+}
+
+
+/* Board Section */
+
+.board {
+  padding: 2% 7%;
+  text-align: center;
+}
+
+.container-fluid {
+  width: 50%;
+}
+
+.player {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.dice {
+  text-align: center;
+}
+
+.left-dice {
+  padding: 3%;
+  text-align: right;
+}
+
+.right-dice {
+  padding: 3%;
+  text-align: left;
+}
+
+/* Footer Section */
+
+.footer {
+  padding: 3%;
+  text-align: center;
+}
